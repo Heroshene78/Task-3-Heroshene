@@ -7,7 +7,7 @@ export default defineConfig(() => {
   return {
     
     plugins: [react(), tailwindcss()],
-    base:"/SmartRecommend-AI/",
+    base:"/SmartRecommend--AI/",
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
