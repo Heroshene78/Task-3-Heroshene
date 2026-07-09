@@ -5,7 +5,6 @@
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
-
 View your app in AI Studio: https://ai.studio/apps/2eb3e926-7a31-4e2a-bb83-1bbfc8b2d7ec
 
 ## Run Locally
